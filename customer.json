@@ -1,4 +1,12 @@
 {
-  "shopName": "Tiệm Nail Luxury 01",
-  "phone": "0909123456"
+  "businessName": "Thiên Ý",
+  "phone": "0948.551.423",
+  "address": "Tầng 6 toà nhà Ladeco, 266 Đội Cấn, phường Liễu Giai, Hà Nội",
+  "hotlineBooking": "1900 6750",
+  "hotlineSupport": "1900 6750",
+  "socials": {
+    "facebook": "#",
+    "zalo": "https://zalo.me/0948551423",
+    "instagram": "#"
+  }
 }
